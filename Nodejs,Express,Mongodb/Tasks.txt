@@ -1,0 +1,11 @@
+1.Book directory app
+2.Develop a user login system
+3.Send emails with Node.JS
+4.Make a random number generator
+5.Build a personal website
+6.Create a video streaming platform
+7.Build a project management app
+8.Create a social network
+9.Movie CRUD
+10.User CRUD
+11.Food delivery app CRUD
